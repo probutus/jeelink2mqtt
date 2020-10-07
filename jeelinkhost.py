@@ -27,7 +27,7 @@ topic_base = 'home/sensor/lacrosse/'
 my_list_devices = { 
    33: 'Room1',
    42: 'Room2',
-   17: 'Room3',
+   17: 'Room3'
 }
 
 ser = serial.Serial(
