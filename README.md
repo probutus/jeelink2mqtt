@@ -8,3 +8,5 @@ If you are looking for an all-inclusive comfortable solution please go somewhere
 The whole server consists of one python file.
 
 Setting of server, sensor names is all in the top of the python file. You are free to do whatever you like with it but use at your own risk and dont blame me.
+
+If you want to use this code please ensure that pyserial and paho-mqtt is installed.
